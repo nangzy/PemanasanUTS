@@ -17,7 +17,7 @@ NIM: 2440102120</b>
 # Authors Page
 ![Gambar Authors Page](https://github.com/nangzy/PemanasanUTS/blob/master/Documentation/AuthorsPage.jpg)
 
-#Author1's Page
+# Author1's Page
 ![Gambar Author1's Page](https://github.com/nangzy/PemanasanUTS/blob/master/Documentation/Author1Page.jpg)
 
 # Author2's Page
